@@ -51,5 +51,7 @@ int main()
     }
     cout << "\n";
 
+    cout << "Press enter to continue...";
+    cin.get();
 }
 
