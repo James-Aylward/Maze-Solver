@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1537747014 source:c:\users\james\onedrive\documents\dev\c++\maze solver\main.cpp
+	<iostream>
+	<vector>
+	<Maze.h>
+	<Graph.h>
+	<MazeSolver.h>
+
+1537698093 source:c:\users\james\onedrive\documents\dev\c++\maze solver\src\maze.cpp
+	"Maze.h"
+	<iostream>
+
+1538714198 c:\users\james\onedrive\documents\dev\c++\maze solver\include\maze.h
+	<Graph.h>
+	<unordered_map>
+
+1539050794 c:\users\james\onedrive\documents\dev\c++\maze solver\include\graph.h
+	<unordered_map>
+	<utility>
+	<vector>
+	<iostream>
+
+1537674373 source:c:\users\james\onedrive\documents\dev\c++\maze solver\src\breadthfirstsearch.cpp
+	"BreadthFirstSearch.h"
+
+1537673348 c:\users\james\onedrive\documents\dev\c++\maze solver\include\breadthfirstsearch.h
+	<queue>
+	<vector>
+	<Graph.h>
+
+1537697296 c:\users\james\onedrive\documents\dev\c++\maze solver\include\mazesolver.h
+	<queue>
+	<vector>
+	<unordered_map>
+	<cmath>
+	<Graph.h>
+
+1540424958 source:c:\users\james\onedrive\documents\dev\c++\maze solver\src\mazesolver.cpp
+	"MAZESOLVER.h"
+
